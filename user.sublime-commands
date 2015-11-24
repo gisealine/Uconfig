@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "select: quoted",
+        "command": "select_quoted",
+    },
+
+]
